@@ -1,0 +1,40 @@
+.bg-1 h1, h5{
+  		background: red;
+  		width: 105px;
+  	}
+
+.nav-link{
+  		color: red;		
+  	}
+
+
+.bg-3 h1{
+	color: #00ffff;
+}
+
+.col-lg-4 ul{
+	list-style: none;
+}
+
+.col-lg-4 a{
+	color: white;
+
+}
+
+.col-lg-4 i{
+	color: white;
+}
+
+.col-lg-4 button{
+	margin-top: 40px;
+}
+.img-foot{
+	padding-top: 40px;
+}
+
+.copyright{
+	color: black;
+	font-size: 9px;
+	font-style: bold;
+	padding-top: 80px;
+}
